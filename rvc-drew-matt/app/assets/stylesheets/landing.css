@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+    list-style-position: inside;
+    font-family: 'Raleway', sans-serif;
+}
+
+a.btn {
+    color: black;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.buttons {
+    margin: 15px;
+    background-color: whitesmoke;
+    font-size: 25px;
+}
+
+hr {
+    width: 50%;
+}
+
+li {
+    font-size: 20px;
+}
+
+.box {
+    background-color: whitesmoke;
+    opacity: 0.6;
+    border-radius: 20px;
+    width: 50%;
+    margin-top: 200px;
+}
+
+
